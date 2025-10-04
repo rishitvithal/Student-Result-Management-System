@@ -15,8 +15,6 @@ This project would provide students to view their examination results in a simpl
 * To login as admin use the credentials Username: "admin" & Password: "admin"
 
 ## Images : 
-* Home
-![home](https://user-images.githubusercontent.com/89544124/210182389-bc631a22-10e8-4326-8337-b6a2de55cc70.png)
 
 * Admin Dashboard
 ![dashboard](https://user-images.githubusercontent.com/89544124/210182399-f98e25ec-bc1f-4c8a-9756-124f99a4595f.png)
